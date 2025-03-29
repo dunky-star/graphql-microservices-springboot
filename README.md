@@ -1,1 +1,1 @@
-# graphql-microservices-springboot
+# GraphQL Microservices Spring Boot

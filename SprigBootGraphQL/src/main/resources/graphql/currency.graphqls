@@ -1,0 +1,11 @@
+# Supported currencies
+enum Currency {
+    # Uganda shs
+    UGX,
+    #Euro
+    EUR,
+    # Canadian Dollar
+    CAD
+    # United States Dollar
+    USD
+}
